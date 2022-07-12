@@ -18,3 +18,4 @@ I am having trouble to find a mnemonic to asm lib
 
 Check if the -s switch is \x format or string.# opstats
 # opstats
+# opstats
